@@ -1,0 +1,22 @@
+========================================
+MODULE 1 - EXERCISE 1.A: GETTING SET UP
+========================================
+
+1. What will you do 5 minutes before class each day to be ready on time?
+Answer: I will close email and social media, open Zoom and Excel, review yesterday's notes, write one goal for the day, get water, and put my phone face down and out of reach.
+
+2. Do you have a second monitor? If not, who could you ask?
+Answer: Yes, I have a second monitor. If I did not, I would ask a family member or friend to loan one for the next 12 weeks. A TV could also work if it has HDMI.
+
+3. Do you have an external keyboard and mouse?
+Answer: Yes, I have both. If I did not, I would prioritize an external mouse first because it helps with comfort and speed.
+
+4. How do you plan to take notes for this class?
+Answer: I will take notes in one Google Doc named "DataAnalytics Notes" with dated headings. I will also keep a small paper notebook for quick sketches and formulas.
+
+5. Practicing curiosity: What is one question you have right now?
+Answer: How do analysts decide whether to use a bar chart, line chart, pie chart, or scatter plot for a given dataset?
+
+========================================
+END OF FILE
+========================================
