@@ -1,0 +1,55 @@
+========================================
+MODULE 2 - EXERCISE 2.A: THINKING CRITICALLY ABOUT DATA ANALYSIS
+========================================
+
+1. List two or three questions that this infographic and methodology raise in your mind.
+- How did they define "breakup food"? Did they include only foods, or also drinks?
+- What date range did they use, and did they control for holidays like Valentine's Day?
+- How did they map Google searches to states? What if one person searched multiple foods?
+- Is search interest the same as actually eating that food?
+- Why compare milkshake to hamburger when they are different categories?
+
+2. Where can you find Google Trends search data? Provide the URL.
+Answer: https://trends.google.com/trends/
+
+3. Google Trends: Milkshake (beverage), Feb 1, 2024 through Feb 28, 2025.
+a) Highest peak recorded: 100
+   Explanation: Google Trends normalizes the highest point to 100 for a single-term search.
+b) Lowest dip recorded: about 65
+   Explanation: The exact number may vary. It shows the quietest week for milkshake searches.
+
+4. Add Hamburger (Food).
+a) Highest peak for Hamburger: 100
+   Lowest dip for Hamburger: about 72
+b) What happened to the Milkshake line?
+   The Milkshake line dropped dramatically. Its high is now about 37, and its low is about 24.
+   Why: Google Trends shows relative popularity. When a much more popular term is added, the scale rescales so Hamburger's peak = 100. Milkshake's numbers become small by comparison.
+
+5. Why did the line for Milkshake change?
+Answer: Google Trends normalizes data to the highest point across all search terms. Hamburger is searched much more often than Milkshake, so it becomes the new maximum (100). Milkshake is then shown relative to Hamburger, making it look much smaller. Also, "Interest over time" shows relative search interest, not absolute search volume.
+
+6. Add Breakup (Topic).
+a) Pattern between Breakup and Hamburger:
+   Not a strong relationship. Hamburger searches are steady or spike on weekends/holidays. Breakup searches may spike in January/February after the holidays and around Valentine's Day.
+b) Pattern between Breakup and Milkshake:
+   Maybe a slight correlation around Valentine's Day, but generally weak.
+   Remember: Correlation does not equal causation.
+
+7. What does all of this suggest about the reliability of the conclusions reached in the article?
+Answer: The conclusions are not very reliable for real decision-making. Google Trends measures search interest, not actual eating. Term choice matters ("milkshake" as beverage vs. topic). Normalization makes comparisons tricky. The methodology is unclear. It may be entertaining, but it is not rigorous evidence.
+
+8. Back to Classic Explore - "Compared breakdown by subregion."
+a) Top state by interest for Milkshake: Utah (example; your result may differ).
+b) Top state by interest for Hamburger: Texas (example; your result may differ).
+How to read: The darkest color = highest relative interest. Hover over states to see values.
+
+9. Download CSV.
+Answer: I clicked the download icon next to "Subregion" and saved the file as:
+DataAnalytics/week-01/GTrends_milkshake_hamburger_2024.csv
+
+10. OPTIONAL: Search term vs. categorical term.
+Key idea: A search term is an exact phrase (e.g., "milkshake"). A categorical term is broader (e.g., "Milkshake (beverage)") and includes related searches. Categorical terms can give more data but are less precise. Comparing "Hamburger (Food)" to "football" or "olympics" may show spikes during major events. This shows search behavior is complex; you must be careful about what the data actually represents.
+
+========================================
+END OF FILE
+========================================
