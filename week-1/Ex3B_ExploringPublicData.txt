@@ -1,0 +1,187 @@
+========================================
+MODULE 3 - EXERCISE 3.B: EXPLORING PUBLIC DATA
+Filled-In Answers
+========================================
+
+1. Start by reviewing the data.gov home page. What is this?
+
+Answer: Data.gov is the central clearinghouse for U.S. government open data.
+It is managed by the U.S. General Services Administration (GSA). The site
+provides public access to datasets from federal, state, local, and tribal
+government agencies. Users can search, browse, and download data on topics
+such as health, climate, education, agriculture, transportation, and more.
+It is designed to promote transparency, innovation, and data-driven
+decision-making.
+
+2. Go to Most Viewed Datasets. How many datasets are listed?
+
+Answer: The number changes over time, but typically there are more than 10
+datasets listed on the "Most Viewed Datasets" page. 
+
+
+3. Find the Topic Category for Human Health. Review the range of data
+   sources available for this topic. Why do you think these were tagged
+   with the Human Health category?
+
+Answer: The Human Health category includes datasets from agencies such as:
+- National Oceanic and Atmospheric Administration, Department of Commerce
+- National Institutes of Health (NIH)
+- Food and Drug Administration (FDA)
+- Department of Health and Human Services (HHS)
+- Medicare and Medicaid Services (CMS)
+
+These datasets are tagged with "Human Health" because they relate to:
+- Disease tracking and prevention
+- Hospital and provider information
+- Nutrition and food safety
+- Drug and medical device data
+- Health insurance and payment data
+- Public health statistics
+
+They help researchers, policymakers, and the public understand health
+trends, evaluate programs, and make informed decisions.
+
+4. Go to the Food Price Outlook. Review the catalog page for this dataset.
+   How can you navigate to additional datasets from the USDA?
+
+Answer: On the Food Price Outlook catalog page, you can navigate to
+additional USDA datasets by:
+- Clicking on the "USDA" organization link near the top of the page
+- Using the "Related" or "Associated" datasets section if available
+- Clicking on the "Visit Page" button to go to the USDA Economic Research
+  Service (ERS) website, where more datasets are listed
+- Searching Data.gov for "USDA" to see all datasets from that organization
+
+5. Go back to the data.gov home page. This time, click on Datasets by
+   Organization.
+
+Answer: The "Datasets by Organization" page lists all government
+organizations that have published datasets on Data.gov. You can browse
+alphabetically or search for a specific agency. Examples include:
+- Department of Agriculture (USDA)
+- Department of Commerce
+- Department of Education
+- Environmental Protection Agency (EPA)
+- National Aeronautics and Space Administration (NASA)
+
+6. Try searching for your city, county, and state. What organizations are
+   returned?
+- City of New Castle
+- New castle County
+- State of Delaware
+- Federal agencies with local data (Department of Interior)
+
+This shows that public data exists at multiple levels of government:
+federal, state, county, and city.
+
+7. Search for USDA, and click into the result. Within the USDA datasets,
+   search for "food composition." Notice that the top three results are
+   all datasets concerning nutrition information. Try searching the USDA
+   page for "nutrition." How does that affect your results?
+
+Answer: Searching for "food composition" returns datasets like:
+- FoodData Central
+- USDA National Nutrient Database
+- Nutrient Database for Standard Reference
+
+Searching for "nutrition" returns broader results:
+- Food and Nutrition Service data
+- Supplemental Nutrition Assistance Program (SNAP) data
+- School lunch and child nutrition program data
+- Dietary guidelines and nutrition research
+
+Key insight: Different search terms return different results. "Food
+composition" is more specific to nutrient content, while "nutrition" is
+broader and includes food assistance programs and policy data.
+
+a) One tricky thing about working with data is that sometimes the
+   terminology used by a data source is not obvious. You may need to dig
+   around and be creative to find what you're looking for.
+
+Answer: This is true. Government agencies use specific jargon and
+classification systems. For example:
+- "Food composition" vs. "nutrition" vs. "dietary intake"
+- "Provider" vs. "physician" vs. "clinician"
+- "Beneficiary" vs. "recipient" vs. "participant"
+
+Being creative with search terms and exploring related datasets is an
+important data discovery skill.
+
+8. Go back to the results for food composition, and click on FoodData
+   Central. Review the catalog page for this data source, then click on
+   the button for Visit Page. Take some time to explore the FoodData
+   Central website.
+
+Answer: FoodData Central is maintained by the USDA Agricultural Research
+Service (ARS). It provides detailed information about the nutrient
+composition of foods. The catalog page includes:
+- Description of the dataset
+- Metadata (last updated, publisher, contact)
+- Download links
+- Related datasets
+
+On the FoodData Central website, you can:
+- Search for foods by name
+- View nutrient profiles (calories, protein, fat, vitamins, minerals)
+- Download data in CSV or JSON format
+- Access different data types (Foundation Foods, SR Legacy, Branded Foods)
+
+a) Try searching for butter, or any of your favorite foods. What kind of
+   results do you get? What happens when you click on a result?
+
+Answer: Searching for "butter" returns multiple results:
+- Butter, salted
+- Butter, unsalted
+- Butter, whipped
+- Butter, light
+- Butter Creamy
+
+Clicking on a result shows:
+- Full nutrient profile per 100g
+- Calories, fat, protein, carbohydrates
+- Vitamins and minerals
+- Data source and publication date
+- Links to related foods
+
+b) Go back to the home page. Find Foundation Foods, and click on
+   Downloads. What kind of data can you find on this page? How big are
+   these files? Where can you find more information on the data types
+   available?
+
+Answer: Foundation Foods downloads include:
+- CSV files with nutrient data
+- JSON files with structured data
+- Documentation and data dictionaries
+
+File sizes vary but can range from a few MB to hundreds of MB for full
+datasets.
+
+More information on data types can be found in:
+- The "Documentation" section
+- The "Data Types" page
+- The "Download Data" page with descriptions of each dataset
+
+Data types include:
+- Foundation Foods: Basic foods with detailed nutrient analysis
+- SR Legacy: Older nutrient database
+- Branded Foods: Packaged food products with label data
+- Survey Foods: Foods reported in national surveys
+
+========================================
+KEY TAKEAWAYS
+========================================
+
+- Data.gov is the central clearinghouse for U.S. government open data.
+- Public data exists at federal, state, county, and city levels.
+- Different search terms return different results; be creative and
+  persistent.
+- Government agencies use specific terminology that may not be obvious.
+- FoodData Central is a rich source of nutrition data with multiple
+  download formats.
+- Always review the catalog page and metadata before using a dataset.
+- File sizes can be large; check before downloading.
+- Documentation is essential for understanding data types and structure.
+
+========================================
+END OF FILE
+========================================
