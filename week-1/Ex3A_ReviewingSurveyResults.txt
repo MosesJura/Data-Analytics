@@ -1,0 +1,161 @@
+========================================
+MODULE 3 - EXERCISE 3.A: REVIEWING SURVEY RESULTS
+Filled-In Answers
+========================================
+
+Dataset reviewed: Exercise 1.A Getting Set Up survey results
+Number of responses: 20
+Columns: Id, Start time, Completion time, Email, Name, What do you envisage...
+
+Note: The survey data provided is anonymized. The Email column shows
+"anonymous" for all respondents. The Name column is blank for all
+respondents. Only the first survey question ("What do you envisage...")
+has response data in this export.
+
+----------------------------------------
+SURVEY QUESTION 1: What do you envisage yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+----------------------------------------
+
+1. What conclusion can you reach about the responses to this question?
+
+Most respondents focus on preparation and readiness. Common themes include:
+- Reviewing notes or previous material
+- Logging in early and checking equipment
+- Getting organized (coffee, water, workspace)
+- Being mentally ready (recentering, getting focused)
+- Ensuring they are on time
+
+The responses show that students value a consistent routine before class.
+A few respondents mentioned being prepared 30 minutes early, which suggests
+some students prefer a longer buffer than just 5 minutes.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+The default summary for a written-response question is usually just a list
+of text answers. This is not very helpful for finding patterns because the
+responses are all different lengths and wording.
+
+Improvements:
+- Add word cloud or keyword frequency chart
+- Group similar answers into themes (e.g., "review notes," "log in early,"
+  "get coffee/water," "mental preparation")
+- Use multiple-choice or checkbox options for common activities, plus an
+  "Other" text box for unique answers
+
+3. For questions with an "Other" option, where can you find the actual text
+   of those responses? Do you notice anything tricky?
+
+This question is open-ended and does not have an "Other" option. If it did,
+the actual text would appear in the downloadable Excel file, usually in a
+column next to the question. The tricky part is that "Other" responses are
+often inconsistent — different spellings, phrasing, and levels of detail —
+making them hard to group or count automatically.
+
+4. For questions calling for a written response, what challenges do you
+   notice about finding trends or patterns in the answers?
+
+Challenges:
+- Responses are free text, so wording varies even when the idea is the same
+- Some answers are fragments (e.g., "Get ready for class")
+- Some answers are long and detailed, others are very short
+- No standard categories to count
+- Requires manual reading and tagging to find themes
+- Hard to visualize without extra processing
+
+5. Now that you can see the responses, how might you recommend rephrasing
+   this question or the response options in a future survey?
+
+Recommendation:
+Instead of a single open-text question, use a multiple-choice or
+multi-select question with common options, plus an "Other" text box.
+
+Example:
+"What do you do in the 5 minutes before class? (Select all that apply)"
+- Review notes
+- Log in to class early
+- Check equipment (monitor, keyboard, mouse)
+- Get coffee/water/snack
+- Silence phone
+- Mentally prepare/focus
+- Other: __________
+
+This would make responses easier to compare, count, and visualize.
+
+----------------------------------------
+ADDITIONAL QUESTIONS
+----------------------------------------
+
+6. Is there anything that surprised you about the survey responses?
+
+Yes. Many respondents mentioned being prepared much earlier than 5 minutes
+(e.g., 30 minutes before class). Also, several responses focused on
+emotional or mental readiness ("recentering," "getting myself together"),
+not just logistical tasks. This suggests the question is about more than
+just physical preparation.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you
+   might try to include in your morning routine, or any questions that you
+   are also curious about?
+
+Ideas to try:
+- Review yesterday's notes for 5 minutes before class
+- Log in 5-10 minutes early to test audio/video
+- Keep water and coffee ready the night before
+- Put phone face down and out of reach
+- Write one goal for the day before class starts
+
+New questions I am curious about:
+- How many students actually follow a consistent morning routine?
+- Does preparing earlier than 5 minutes lead to better focus?
+- What barriers prevent students from being ready on time?
+
+8. Pretend you are the instructor. Is there anything you can learn from this
+   survey to help in how you approach teaching this class?
+
+Yes:
+- Students value preparation and routine. The instructor could start each
+  class with a 1-minute "settle in" moment to help students transition.
+- Some students arrive 30 minutes early, while others aim for 5 minutes.
+  The instructor could share a recommended pre-class checklist.
+- Since many students mentioned reviewing notes, the instructor could
+  provide a quick recap or warm-up question at the start of class.
+- The instructor could also model good habits by starting on time and
+  making the first 5 minutes predictable and calm.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or
+   not helpful to make this survey anonymous? Why or why not?
+
+Pros of anonymity:
+- Students may be more honest about struggles (e.g., time management,
+  not having equipment).
+- Reduces pressure to give "correct" or impressive answers.
+- Encourages participation.
+
+Cons of anonymity:
+- Cannot follow up with individual students who need help.
+- Cannot identify who may need a loaner monitor or keyboard.
+- Harder to build accountability or personalized support.
+
+Overall: For this survey, anonymity was helpful because it increased
+honesty. But if the instructor wants to offer equipment loans or follow-up
+support, a non-anonymous or optionally anonymous version would be better.
+
+----------------------------------------
+DATA LAYOUT OBSERVATIONS
+----------------------------------------
+
+- The "Id" column is likely included to give each response a unique
+  identifier. This helps with tracking, sorting, and referencing responses
+  without using personal information.
+- The "Start time" and "Completion time" columns show when each respondent
+  began and finished the survey. This can be used to calculate completion
+  time.
+- The "Email" column shows "anonymous" for all rows, confirming the survey
+  was set to anonymous.
+- The "Name" column is blank, which is consistent with anonymous responses.
+- Each row represents one person's responses.
+- Each question from the survey becomes its own column.
+
+========================================
+END OF FILE
+========================================
