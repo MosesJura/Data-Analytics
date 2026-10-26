@@ -26,7 +26,7 @@ WHERE categoryName = 'seafood';  -- when i use where to filter and get seafood
 
 =======================================================================================================
 
-SELECT  OrderID, OrderDate, ShipName, ShipCountry FROM orders
+SELECT  OrderID, OrderDate, ShipName, ShipCountry FROM orders LIMIT 50
  --to retrieve the top 50 records from orders
 
 
