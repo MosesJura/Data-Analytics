@@ -1,6 +1,6 @@
 ## My Data Analytics: Learning Objectives & Outcomes 
 
-## Objectives 
+## Objectives - What to learn
 
 - Foundations of data analysis: terminology, core concepts, roles, and the data analysis lifecycle 
 
@@ -16,7 +16,7 @@
 
 - Professional workflows for organizing, documenting, and sharing data analysis work 
 
-## Outcomes - will be able to: 
+## Outcomes - I will be able to: 
 
 - Apply the data analysis lifecycle to approach a business question systematically, from framing the question through communicating results 
 
