@@ -36,3 +36,5 @@ birth_state = 'North Carolina'
 # 3) while: repeats a block of code as long as a condition remains true.
 # 4) def: defines a function (a reusable named block of code).
 # 5) class: defines a class, a blueprint for creating objects with attributes and methods.
+
+
