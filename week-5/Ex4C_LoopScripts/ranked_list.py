@@ -14,3 +14,4 @@ print("\nReversed:")
 reversed_list = list(reversed(favorites))
 for i, item in enumerate(reversed_list, start=1):
     print(f"{i}. {item}")
+    
